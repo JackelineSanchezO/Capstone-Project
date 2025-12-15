@@ -5,12 +5,14 @@
 # Biomedical Data Science
 
 ##  Project Overview
-This project presents an interactive Streamlit web application that estimates a patient’s risk of developing bedsores based on commonly known clinical risk factors. Pressure ulcers are a frequent and costly complication in hospitalized and immobile patients, yet they are preventable with early identification and intervention.
+This project presents an interactive Streamlit web application that estimates a patient’s risk of developing bedsores based on commonly known clinical risk factors.
+Pressure ulcers are a frequent and costly complication in hospitalized and immobile patients, yet they are preventable with early identification and intervention.
 
 The goal of this project is to show that with data analysis, statistical modeling, and an application a simple clinical support tool can be developed.
 
 ## Data 
-A synthetic healthcare dataset was made to represent clinically realistic patient characteristics commonly associated with bedsore development. Synthetic data was used to privacy concerns related to patient data and for simplicity. 
+A synthetic healthcare dataset was made to represent clinically realistic patient characteristics commonly associated with bedsore development. 
+Synthetic data was used to privacy concerns related to patient data and for simplicity. 
 
 Data includes:
 - Age  
